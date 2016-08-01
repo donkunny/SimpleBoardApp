@@ -66,6 +66,7 @@ character-set-server = utf8
 [client]
 character-sets-dir=utf8
 ```
+##### 7) Export file(~.war) and deploy it into Tomcat
 
 ###### reference
 <ul>
