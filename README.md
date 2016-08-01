@@ -55,6 +55,8 @@ mysql>show variables like 'char%';
 
 # If values are not utf8, you shoud change it to utf8
 [root ~]$ sudo vi /etc/my.cnf
+
+# Copy it
 [mysqld]
 # set utf-8
 init_connect=SET collation_connection = utf8_general_ci
