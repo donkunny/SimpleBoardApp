@@ -1,5 +1,6 @@
 # SimpleBoardApp
 This is Simple Bulletin Board using Spring framework
+
 More Information you want, visit my blog, www.donkunny.com
 Any commands are find. Thank you
 
