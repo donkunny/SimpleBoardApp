@@ -41,6 +41,7 @@ mysql> desc BOARD;
 # If your id doesn't have previleges to your db, Server cannot access your db.
 # please check it
 mysql> SHOW GRANTS FOR 'your id'@'localhost';
+#-------------------------------------------#
 Grants for {your id}@localhost
 GRANT ALL PRIVILEGES ON `board`.* TO 'your id'@'localhost'
 
