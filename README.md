@@ -67,4 +67,4 @@ character-set-server = utf8
 character-sets-dir=utf8
 ```
 
-### reference: 스프링 입문을 위한 자바 객체 지향의 원리와 이해(김종민 저, 위키북스)
+###### reference: 스프링 입문을 위한 자바 객체 지향의 원리와 이해(김종민 저, 위키북스)
