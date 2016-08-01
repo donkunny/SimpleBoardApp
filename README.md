@@ -55,7 +55,7 @@ or
 mysql>show variables like 'char%';
 
 # If values are not utf8, you shoud change it to utf8
-[root ~]$ sudo vi /etc/my.cnf
+[root ~]$ vi /etc/my.cnf
 
 # Copy it
 [mysqld]
