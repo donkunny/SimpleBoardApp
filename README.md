@@ -38,7 +38,7 @@ mysql> desc BOARD;
 ```
 ##### 5) Check previleges your database
 ```
-# If your id doesn't has previleges to your db, Server cannot access your db.
+# If your id doesn't have previleges to your db, Server cannot access your db.
 # please check it
 mysql> SHOW GRANTS FOR 'your id'@'localhost';
 Grants for {your id}@localhost
