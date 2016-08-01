@@ -20,8 +20,8 @@ jdbc.password={your password}
 ```
 # Log in mysql with your id and pwd
 mysql> mysql -u {id} -p
-mysql> CREATE DATABASE board;
-mysql> use board;
+
+# Create db and table
 mysql> CREATE DATABASE board;
 mysql> use board;
 mysql> CREATE TABLE BOARD IF NOT EXISTS (
